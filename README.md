@@ -1,2 +1,2 @@
-Up to date the README.md us the "git pull" command
+to up to date the README.md use the "git pull" command
 My first readme
